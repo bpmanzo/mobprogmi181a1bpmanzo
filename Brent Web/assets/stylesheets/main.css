@@ -1,0 +1,39 @@
+/*  
+selecteur{
+    propriete: valeur;
+}
+*/
+
+body {
+    background-color: #FF9500;
+    background-image: url('http://pic.qiantucdn.com/58pic/12/95/10/88q58PICRc8.jpg!qt324');
+    color: white;
+    margin: 0;
+}
+
+#container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px 20px;
+    box-shadow: 0px 0px 30px 2px rgba( 0, 0, 0, 0.95 );
+}
+
+h1, h3 {
+    font-family: sans-serif;
+}
+
+h3 {
+    margin-top: -15px;
+    color: lightgrey;
+    padding-bottom: 15px;
+    border-bottom: solid 1px white;
+}
+
+a {
+    color: lightgrey;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
